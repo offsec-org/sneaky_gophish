@@ -15,7 +15,7 @@ Getting the container up and running is very simple.
 Run the following one-liner to clone the repository and build the container:
 
 ```
-git clone https://github.com/puzzlepeaches/sneaky_gophish && \
+git clone https://github.com/offsec-org/sneaky_gophish && \
   cd sneaky_gophish && \
   docker build -t sneaky_gophish .
 ```
